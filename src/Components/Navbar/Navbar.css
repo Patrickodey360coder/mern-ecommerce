@@ -80,3 +80,9 @@
   background: red;
   color: white;
 }
+
+a:-webkit-any-link {
+  color: #626262;
+  cursor: pointer;
+  text-decoration: none;
+}

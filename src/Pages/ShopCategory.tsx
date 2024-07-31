@@ -5,7 +5,7 @@ type ShopCategoryProps = {
 
 const ShopCategory: React.FC<ShopCategoryProps> = ({ category }) => {
   return (
-    <div>ShopCategory = { category }</div>
+    <div>{ category }</div>
   )
 }
 
