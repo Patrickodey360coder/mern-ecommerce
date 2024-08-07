@@ -1,4 +1,4 @@
-import './Newsetter.css'
+import './Newletter.css'
 
 const Newsletter = () => {
   return (
