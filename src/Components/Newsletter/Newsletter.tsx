@@ -2,7 +2,7 @@ import './Newsetter.css'
 
 const Newsletter = () => {
   return (
-    <div>Newsletter</div>
+    <div className='newsletter'>Newsletter</div>
   )
 }
 
